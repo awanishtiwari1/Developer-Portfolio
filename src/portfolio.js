@@ -49,14 +49,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "A Solution Driven personality type person, who loves solving problems regardless of the tech stack",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Develop secure REST APIs & Microservices with best security practices using Spring Boot."),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Configuration and automate the application’s Continuous Integration and Continuous Deployment (CI/CD) pipelines to streamline development workflows, enhance deployment speed, and improve overall software delivery efficiency."
     )
   ],
 
@@ -73,8 +73,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "Core Java",
+      fontAwesomeClassname: "fab fa-java"
     },
     {
       skillName: "JavaScript",
@@ -85,19 +85,15 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "Spring Boot",
+      fontAwesomeClassname: "fas fa-leaf"
     },
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
     },
     {
-      skillName: "sql-database",
+      skillName: "MySQL",
       fontAwesomeClassname: "fas fa-database"
     },
     {
@@ -105,16 +101,21 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws"
     },
     {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
+      skillName: "Jenkins",
+      fontAwesomeClassname: "devicon-jenkins-line colored"
     },
     {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
+    }
+    ,
+    {
+      skillName: "Data Structures & Algorithms",
+      fontAwesomeClassname: "fas fa-network-wired"
+    },
+    {
+      skillName: "REST APIs & Microservices",
+      fontAwesomeClassname: "fas fa-cubes"
     }
   ],
   display: true // Set false to hide this section, defaults to true
