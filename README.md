@@ -270,8 +270,8 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/awanishtiwari1/"><img src="https://avatars2.githubusercontent.com/u/23307811?v=4" width="100px;" alt=""/><br /><sub><b>Awanish Tiwari</b></sub></a></td>
-    <td align="center"><a href="https://github.com/sujalsharma/"><img src="https://avatars1.githubusercontent.com/u/48270786?v=4" width="100px;" alt=""/><br /><sub><b>Sujal Sharma</b></sub></a></td>
+    <td align="center"><a href="https://github.com/awanishtiwari1/"><img src="https://github.com/awanishtiwari1/Developer-Portfolio/blob/main/Avi.png" width="100px;" alt=""/><br /><sub><b>Awanish Tiwari</b></sub></a></td>
+    <td align="center"><a href="https://github.com/sujalsharma/"><img src="https://github.com/awanishtiwari1/Developer-Portfolio/blob/main/Sujal.png" width="100px;" alt=""/><br /><sub><b>Sujal Sharma</b></sub></a></td>
   </tr>
 </table>
 
