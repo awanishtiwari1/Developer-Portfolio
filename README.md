@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-<img src="./assets/images/Project's GIF.gif"></img>
+<img src="https://github.com/awanishtiwari1/Developer-Portfolio/blob/main/src/assets/images/Project's%20GIF.gif"></img>
   </kbd>
 </p>
 
